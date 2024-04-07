@@ -1,0 +1,15 @@
+{
+  "short_name": "CCPF",
+  "name": "Credit Card Payment Form",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "26x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

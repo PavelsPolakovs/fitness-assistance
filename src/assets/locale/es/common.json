@@ -1,0 +1,68 @@
+{
+  "LOADING": "Cargando",
+  "PLEASE_WAIT": "Por favor espere",
+  "CVV": {
+    "LABEL": "ES Security Code CVV",
+    "PLACEHOLDER": "***"
+  },
+  "EXP_DATE": {
+    "LABEL": "Expiration Date",
+    "MONTHS": {
+      "1": "01 Jan",
+      "2": "02 Feb",
+      "3": "03 Mar",
+      "4": "04 Apr",
+      "5": "05 May",
+      "6": "06 Jun",
+      "7": "07 Jul",
+      "8": "08 Aug",
+      "9": "09 Sep",
+      "10": "10 Oct",
+      "11": "11 Nov",
+      "12": "12 Dec"
+    },
+    "PLACEHOLDER": {
+      "MONTH": "Month",
+      "YEAR": "Year"
+    }
+  },
+  "HOLDER": {
+    "LABEL": "Please enter the exact name as on credit/debit card",
+    "PLACEHOLDER": "Card Holder's Name"
+  },
+  "NUMBER": {
+    "LABEL": "Credit/Debit Card Number",
+    "PLACEHOLDER": "0000 0000 0000 0000"
+  },
+  "PHONE": {
+    "LABEL": "Bank’s Phone Number",
+    "PLACEHOLDER": "Enter Phone Number"
+  },
+  "VALIDATION_MESSAGES": {
+    "CARD_NUMBER": {
+      "REQUIRED": "Please enter credit/debit card number",
+      "MIN_LENGTH": "Please enter valid credit/debit card number",
+      "MAX_LENGTH": "Please enter valid credit/debit card number"
+    },
+    "CARD_EXP_DATE_MONTH": {
+      "REQUIRED": "Please select credit/debit card expiration month"
+    },
+    "CARD_EXP_DATE_YEAR": {
+      "REQUIRED": "Please select credit/debit card expiration year"
+    },
+    "CARD_CVV": {
+      "REQUIRED": "Please enter credit/debit card security number",
+      "MIN_LENGTH": "Please enter valid credit/debit card security number",
+      "MAX_LENGTH": "Please enter valid credit/debit card security number"
+    },
+    "CARD_HOLDER": {
+      "REQUIRED": "Please enter name and surname",
+      "MIN_LENGTH": "Please enter the exact name and surname as on credit/debit card",
+      "MAX_LENGTH": "Please enter the exact name and surname as on credit/debit card"
+    },
+    "CARD_BANK_PHONE": {
+      "REQUIRED": "Please enter bank's phone number",
+      "INVALID": "Please enter valid bank's phone number"
+    }
+  }
+}

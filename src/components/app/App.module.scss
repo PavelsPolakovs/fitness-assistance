@@ -1,0 +1,7 @@
+.componentBody {
+  @apply flex flex-col justify-between text-primary overflow-hidden;
+}
+
+.button {
+  @apply block mx-auto p-3 border text-primary;
+}
